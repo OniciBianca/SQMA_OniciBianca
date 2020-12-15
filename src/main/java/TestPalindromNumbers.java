@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TestPalindromNumbers {
-    Math mate;
+    public Math mate;
 
     @Before
     public void setUp(){

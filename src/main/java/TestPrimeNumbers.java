@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 
 public class TestPrimeNumbers {
 
-    Math mate;
+    public Math mate;
 
     @Before
     public void setUp(){
